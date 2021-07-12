@@ -6,6 +6,7 @@ Streamlit은 머신러닝 서비스를 빠르게 구현할 수 있도록 도와�
 
 ## How to use
 * 간단한 샘플
+
 ![s1](sample.png)
 
 ## What is Ainize
