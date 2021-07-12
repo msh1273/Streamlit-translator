@@ -10,13 +10,13 @@ destination = st.selectbox("무슨 언어로 번역할지", ("english", "korean"
 
 translator = Translator()
 
-if btn_translate:  # 버튼 누르면
-    if not source or source == "auto":  # 나의 언어 선택을 안했거나, "auto"이면
-        src = translator.detect(from_text).lang  # 언어 감지하기
+if btn_translate: 
+    if not source or source == "auto":  
+        src = translator.detect(from_text).lang  
         source = src
 
-    if not destination:  # 무슨 언어로 번역할지 선택을 안했으면
-        destination = "en"  # 기본은 영어로 한다.
+    if not destination:  
+        destination = "en" 
 
     result = translator.translate(
         from_text, dest=destination, src=source if source else src
