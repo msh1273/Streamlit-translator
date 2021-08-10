@@ -10,7 +10,7 @@ Streamlit은 머신러닝 서비스를 빠르게 구현할 수 있도록 도와�
 ![s1](sample.png)
 
 ## What is Ainize
-Ainize는 커먼컴퓨터(Comon Computer)에서 재공하는 서비스로 Dockerfile과 github 주소만으로 무료로 서비스를 배포할 수 있습니다. 일일히 clone해오지 않아도 만들어진 샘플 및 모델들을 시연해 볼 수 있습니다.
+Ainize는 커먼컴퓨터(Comon Computer)에서 제공하는 서비스로 Dockerfile과 github 주소만으로 무료로 서비스를 배포할 수 있습니다. 일일히 clone해오지 않아도 만들어진 샘플 및 모델들을 시연해 볼 수 있습니다.
 
 ## Reference
 https://www.seokdev.site/252
